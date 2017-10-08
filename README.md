@@ -1,2 +1,3 @@
 # hello-world
-R code 
+Hi humans!
+MOON TACOS ARE BETTER
